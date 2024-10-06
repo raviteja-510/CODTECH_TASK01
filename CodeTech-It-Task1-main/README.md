@@ -1,14 +1,12 @@
 # CodeTech-It-Task1
 
-### Name: AJAY PANIGRAHI
+### Name: RAVI TEJA KOLLURU
 ### Company: CODTECH IT SOLUTIONS
-### ID: CT08DS4408
+### ID: CT08DS7928
 ### Domain: FRONTEND WEB DEVELOPMENT
-### Duration:  JULY 10th 2024 to AUGUST 10th 2024
+### Duration:  SEP 5th 2024 to OCT 5th 2024
 
-### Mentor Details:
-### Name: Muzammil Ahmed
-### Contact: +91 96401 28015
+
 
 ## Portfolio Website
 
